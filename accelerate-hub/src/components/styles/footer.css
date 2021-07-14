@@ -1,0 +1,23 @@
+.social-links a {
+  color: #ffffff;
+}
+
+@media (min-width: 800px) {
+  .social-links {
+    position: relative;
+    right: 350px;
+  }
+}
+
+@media (min-width: 900px) {
+  .footer-lead {
+    margin-right: 10px;
+  }
+}
+
+@media (min-width: 1000px) {
+  .footer-lead {
+    margin-right: 20px;
+    white-space: nowrap;
+  }
+}
